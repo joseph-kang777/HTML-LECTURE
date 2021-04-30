@@ -1,0 +1,26 @@
+#result1{
+    display: none;
+
+      
+    height: 1425px;
+   
+    background-image: url( "result1.png" );
+    background-repeat: no-repeat;
+    background-position: center center;
+  
+ 
+    background-size: auto;
+
+
+}
+.button_home{
+    opacity: 1;
+    background-color: white;
+    padding:20x 20px;
+    border-radius: 47px;
+    position: fixed;
+    right: 280px;
+    top: 1110px;
+    cursor: pointer;
+    border:none;
+}

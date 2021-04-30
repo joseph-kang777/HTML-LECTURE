@@ -1,0 +1,90 @@
+#qna3{
+    display: none;
+
+      
+        height: 1425px;
+       
+        background-image: url( "Q3.png" );
+        background-repeat: no-repeat;
+        background-position: center center;
+      
+     
+        background-size: auto;
+      
+}
+
+.button3_1 { 
+    opacity: 0;
+    padding:47px 200px;
+    border-radius: 47px;
+    position: fixed;
+    right: 2220px;
+    top: 480px;
+    cursor: pointer;
+    border: none;
+  }
+  .button3_1:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button3_2 { 
+    opacity: 0;
+    padding:47px 380px;
+    border-radius: 47px;
+    position: fixed;
+    right: 1860px;
+    top: 630px;
+    cursor: pointer;
+    border: none;
+  }
+  .button3_2:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button3_3 { 
+    opacity: 0;
+    padding:47px 380px;
+    border-radius: 47px;
+    position: fixed;
+    right: 1860px;
+    top: 780px;
+    cursor: pointer;
+    border: none;
+  }
+  .button3_3:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button3_4 { 
+    opacity: 0;
+    padding:47px 380px;
+    border-radius: 47px;
+    position: fixed;
+    right: 1860px;
+    top: 930px;
+    cursor: pointer;
+    border: none;
+  }
+  .button3_4:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button3_5 { 
+    opacity: 0;
+    padding:47px 200px;
+    border-radius: 47px;
+    position: fixed;
+    right: 2220px;
+    top: 1085px;
+    cursor: pointer;
+    border: none;
+  }
+  .button3_5:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }

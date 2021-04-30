@@ -1,0 +1,34 @@
+
+
+#main{
+    
+      
+        height: 1425px;
+       
+        background-image: url( "main.png" );
+        background-repeat: no-repeat;
+        background-position: center center;
+      
+      
+        background-size: auto;
+      
+     
+      
+
+
+}
+.button0 { 
+    opacity: 0;
+    padding:47px 344px;
+    border-radius: 47px;
+    position: fixed;
+    right: 1190px;
+    top: 728px;
+    cursor: pointer;
+}
+
+
+
+
+
+

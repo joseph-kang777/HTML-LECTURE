@@ -1,0 +1,76 @@
+#qna2{
+    display: none;
+
+      
+        height: 1425px;
+       
+        background-image: url( "Q2.png" );
+        background-repeat: no-repeat;
+        background-position: center center;
+      
+     
+        background-size: auto;
+      
+}
+
+.button2_1 { 
+    opacity: 0;
+    padding:47px 940px;
+    border-radius: 47px;
+    position: fixed;
+    right: 740px;
+    top: 480px;
+    cursor: pointer;
+    border : none;
+  }
+.button2_1:hover{
+  opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+}
+
+  .button2_2 { 
+    opacity: 0;
+    padding:47px 750px;
+    border-radius: 47px;
+    position: fixed;
+    right: 1120px;
+    top: 630px;
+    cursor: pointer;
+    border:none;
+  }
+  .button2_2:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button2_3 { 
+    opacity: 0;
+    padding:47px 1080px;
+    border-radius: 47px;
+    position: fixed;
+    right: 460px;
+    top: 780px;
+    cursor: pointer;
+    border:none;
+  }
+  .button2_3:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button2_4 { 
+    opacity: 0;
+    padding:47px 1145px;
+    border-radius: 47px;
+    position: fixed;
+    right: 330px;
+    top: 930px;
+    cursor: pointer;
+    border: none;
+  }
+  .button2_4:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }

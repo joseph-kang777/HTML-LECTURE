@@ -1,0 +1,25 @@
+#result{
+    display: none;
+
+      
+    height: 1425px;
+   
+    background-image: url( "result.png" );
+    background-repeat: no-repeat;
+    background-position: center center;
+  
+ 
+    background-size: auto;
+
+
+}
+
+.button_result { 
+    opacity: 0;
+    padding:258px 432px;
+    border-radius: 210px;
+    position: fixed;
+    right: 1102px;
+    top: 461px;
+    cursor: pointer;
+  }

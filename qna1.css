@@ -1,0 +1,90 @@
+#qna1 {
+    display: none;
+
+    
+      
+        height: 1425px;
+       
+        background-image: url( "Q1.png" );
+        background-repeat: no-repeat;
+        background-position: center center;
+      
+      
+        background-size: auto;
+      
+    
+}
+
+
+.button1_1 { 
+  opacity: 0;
+  padding:47px 760px;
+  border-radius: 47px;
+  position: fixed;
+  right: 1095px;
+  top: 410px;
+  cursor: pointer;
+  border: none;
+}
+
+.button1_1:hover {
+  opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+}
+.button1_2 { 
+  opacity: 0;
+  padding:47px 920px;
+  border-radius: 47px;
+  position: fixed;
+  right: 778px;
+  top: 560px;
+  cursor: pointer;
+}
+.button1_2:hover {
+  opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+}
+.button1_3 { 
+  opacity: 0;
+  padding:47px 1000px;
+  border-radius: 47px;
+  position: fixed;
+  right: 620px;
+  top: 710px;
+  cursor: pointer;
+}
+.button1_3:hover {
+  opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+}
+.button1_4 { 
+  opacity: 0;
+  padding:84px 1156px;
+  border-radius: 47px;
+  position: fixed;
+  right: 320px;
+  top: 870px;
+  cursor: pointer;
+}
+.button1_4:hover {
+  opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+}
+.button1_5 { 
+  opacity: 0;
+  padding: 84px 1156px;
+  border-radius: 47px;
+  position: fixed;
+  right: 320px;
+  top: 1095px;
+  cursor: pointer;
+}
+.button1_5:hover {
+  opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+}

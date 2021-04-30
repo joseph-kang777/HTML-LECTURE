@@ -1,0 +1,59 @@
+#qna4{
+    display: none;
+
+      
+        height: 1425px;
+       
+        background-image: url( "Q4.png" );
+        background-repeat: no-repeat;
+        background-position: center center;
+      
+     
+        background-size: auto;
+      
+}
+.button4_1 { 
+    opacity: 0;
+    padding:84px 1155px;
+    border-radius: 47px;
+    position: fixed;
+    right: 310px;
+    top: 480px;
+    cursor: pointer;
+    border: none;
+  }
+  .button4_1:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button4_2 { 
+    opacity: 0;
+    padding:47px 1155px;
+    border-radius: 47px;
+    position: fixed;
+    right: 310px;
+    top: 704px;
+    cursor: pointer;
+    border: none;
+  }
+  .button4_2:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
+  .button4_3 { 
+    opacity: 0;
+    padding:47px 720px;
+    border-radius: 47px;
+    position: fixed;
+    right: 1180px;
+    top: 854px;
+    cursor: pointer;
+    border: none;
+  }
+  .button4_3:hover{
+    opacity: 0.5;
+  background-color: yellow;
+  border: solid black;
+  }
