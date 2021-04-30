@@ -3,18 +3,16 @@
 #main{
     
       
-        height: 1425px;
+        height: 720px;
        
-<<<<<<< HEAD
-        background-image: url( "main\ -\ 복사본.png" );
-=======
-        background-image: url( "main - 복사본.png" );
->>>>>>> 18f4ffbb941fc09f4d3a2e05b3f104cea78ea7f2
+
+        background-image: url( "main.png" );
+
         background-repeat: no-repeat;
         background-position: center center;
       
       
-        background-size: cover;
+        background-size: auto;
       
      
       
@@ -23,11 +21,11 @@
 }
 .button0 { 
     opacity: 0;
-    padding:47px 344px;
+    padding:23.5px 172px;
     border-radius: 47px;
     position: fixed;
-    right: 1190px;
-    top: 728px;
+    right: 585px;
+    top: 371px;
     cursor: pointer;
 }
 

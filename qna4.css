@@ -2,7 +2,7 @@
     display: none;
 
       
-        height: 1425px;
+    height: 720px;
        
         background-image: url( "Q4.png" );
         background-repeat: no-repeat;
@@ -14,11 +14,11 @@
 }
 .button4_1 { 
     opacity: 0;
-    padding:84px 1155px;
+    padding: 42px 580px;
     border-radius: 47px;
     position: fixed;
-    right: 310px;
-    top: 480px;
+    right: 153px;
+    top: 243px;
     cursor: pointer;
     border: none;
   }
@@ -29,11 +29,11 @@
   }
   .button4_2 { 
     opacity: 0;
-    padding:47px 1155px;
+    padding:23.5px 573px;
     border-radius: 47px;
     position: fixed;
-    right: 310px;
-    top: 704px;
+    right: 153px;
+    top: 358px;
     cursor: pointer;
     border: none;
   }
@@ -44,11 +44,11 @@
   }
   .button4_3 { 
     opacity: 0;
-    padding:47px 720px;
-    border-radius: 47px;
+    padding:23.5px 360px;
+    border-radius: 23.5px;
     position: fixed;
-    right: 1180px;
-    top: 854px;
+    right: 580px;
+    top: 434px;
     cursor: pointer;
     border: none;
   }

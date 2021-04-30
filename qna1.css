@@ -3,7 +3,7 @@
 
     
       
-        height: 1425px;
+    height: 720px;
        
         background-image: url( "Q1.png" );
         background-repeat: no-repeat;
@@ -18,11 +18,11 @@
 
 .button1_1 { 
   opacity: 0;
-  padding:47px 760px;
+  padding:23.5px 380px;
   border-radius: 47px;
   position: fixed;
-  right: 1095px;
-  top: 410px;
+  right: 542px;
+  top: 209px;
   cursor: pointer;
   border: none;
 }
@@ -34,11 +34,11 @@
 }
 .button1_2 { 
   opacity: 0;
-  padding:47px 920px;
+  padding:23.5px 460px;
   border-radius: 47px;
   position: fixed;
-  right: 778px;
-  top: 560px;
+  right: 383px;
+  top: 285px;
   cursor: pointer;
 }
 .button1_2:hover {
@@ -48,11 +48,11 @@
 }
 .button1_3 { 
   opacity: 0;
-  padding:47px 1000px;
+  padding:23.5px 500px;
   border-radius: 47px;
   position: fixed;
-  right: 620px;
-  top: 710px;
+  right:302px;
+  top: 361px;
   cursor: pointer;
 }
 .button1_3:hover {
@@ -62,11 +62,11 @@
 }
 .button1_4 { 
   opacity: 0;
-  padding:84px 1156px;
-  border-radius: 47px;
+  padding:42px 580px;
+  border-radius: 40px;
   position: fixed;
-  right: 320px;
-  top: 870px;
+  right: 152px;
+  top: 435px;
   cursor: pointer;
 }
 .button1_4:hover {
@@ -76,11 +76,11 @@
 }
 .button1_5 { 
   opacity: 0;
-  padding: 84px 1156px;
-  border-radius: 47px;
+  padding: 42px 580px;
+  border-radius: 40px;
   position: fixed;
-  right: 320px;
-  top: 1095px;
+  right: 152px;
+  top: 550px;
   cursor: pointer;
 }
 .button1_5:hover {

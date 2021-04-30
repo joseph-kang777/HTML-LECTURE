@@ -2,7 +2,7 @@
     display: none;
 
       
-    height: 1425px;
+    height: 720px;
    
     background-image: url( "result.png" );
     background-repeat: no-repeat;
@@ -16,10 +16,10 @@
 
 .button_result { 
     opacity: 0;
-    padding:258px 432px;
-    border-radius: 210px;
+    padding:129px 215px;
+    border-radius: 103px;
     position: fixed;
-    right: 1102px;
-    top: 461px;
+    right: 542px;
+    top: 237px;
     cursor: pointer;
   }

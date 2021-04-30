@@ -2,7 +2,7 @@
     display: none;
 
       
-        height: 1425px;
+    height: 720px;
        
         background-image: url( "Q3.png" );
         background-repeat: no-repeat;
@@ -15,11 +15,11 @@
 
 .button3_1 { 
     opacity: 0;
-    padding:47px 200px;
+    padding:23.5px 100px;
     border-radius: 47px;
     position: fixed;
-    right: 2220px;
-    top: 480px;
+    right: 1103px;
+    top: 245px;
     cursor: pointer;
     border: none;
   }
@@ -30,11 +30,11 @@
   }
   .button3_2 { 
     opacity: 0;
-    padding:47px 380px;
+    padding:23.5px 190px;
     border-radius: 47px;
     position: fixed;
-    right: 1860px;
-    top: 630px;
+    right: 923px;
+    top: 320px;
     cursor: pointer;
     border: none;
   }
@@ -45,11 +45,11 @@
   }
   .button3_3 { 
     opacity: 0;
-    padding:47px 380px;
+    padding:23.5px 190px;
     border-radius: 47px;
     position: fixed;
-    right: 1860px;
-    top: 780px;
+    right: 923px;
+    top: 397px;
     cursor: pointer;
     border: none;
   }
@@ -60,11 +60,11 @@
   }
   .button3_4 { 
     opacity: 0;
-    padding:47px 380px;
+    padding:23.5px 190px;
     border-radius: 47px;
     position: fixed;
-    right: 1860px;
-    top: 930px;
+    right: 923px;
+    top: 472px;
     cursor: pointer;
     border: none;
   }
@@ -75,11 +75,11 @@
   }
   .button3_5 { 
     opacity: 0;
-    padding:47px 200px;
+    padding:23.5px 100px;
     border-radius: 47px;
     position: fixed;
-    right: 2220px;
-    top: 1085px;
+    right: 1103px;
+    top: 549px;
     cursor: pointer;
     border: none;
   }

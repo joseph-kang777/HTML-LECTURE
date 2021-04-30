@@ -2,7 +2,7 @@
     display: none;
 
       
-    height: 1425px;
+    height: 720px;
    
     background-image: url( "result5.png" );
     background-repeat: no-repeat;
@@ -20,8 +20,8 @@
     padding:20x 20px;
     border-radius: 47px;
     position: fixed;
-    right: 280px;
-    top: 1110px;
+    right: 130px;
+    top: 560px;
     cursor: pointer;
     border:none;
 }
